@@ -11,7 +11,6 @@
 
 <img src="https://img.shields.io/badge/GitHub_Grade-A-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Ativa_🚀-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Orgulho_LGBTQIA+-f542a7?style=for-the-badge" />
 
 </div>
 
