@@ -17,7 +17,7 @@
 
 
 
-###                                                     Interesses  
+###                                         👀 Interesses  
 - Pesquisa e desenvolvimento Cientifico  
   
 
@@ -45,7 +45,7 @@
 
 
 
-### SOFTSKILLS  
+### 🤜🤛 SOFTSKILLS  
 - Liderança - Capacidade de influenciar e liderar em prol do objetivo.
   
   
@@ -63,7 +63,7 @@
 
 
 
-### HARDSKILLS
+### 🍀 HARDSKILLS
   
 - Gestão de Projetos (Metodologia e Ferramentas)
   
