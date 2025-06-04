@@ -95,8 +95,12 @@ Estudante com bolsa completa em Ciência de Dados e I.A. no UNISENAI, com vivên
 
 ## 📊 GitHub Stats  
 
+## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NyrxScar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <br />
+  <img src="https://img.shields.io/badge/Nota-A-brightgreen?style=for-the-badge&logo=github" />
 </div>
 
 <div align="center">
