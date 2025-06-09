@@ -18,7 +18,8 @@
 
 ### 🔭 Sobre mim
 
-Estudante com bolsa completa em Ciência de Dados e I.A. no UNISENAI, com vivência em hackathons e projetos práticos. Destaque em eventos como “Soluções Inovadoras” e “Projetos de Sistemas de TI”. Foco em desenvolver soluções criativas, inclusivas e com impacto social.
+Sou estudante bolsista em Ciência de Dados e Inteligência Artificial pelo UNISENAI, com experiência em hackathons e projetos práticos voltados à inovação e impacto social. Fui destaque em eventos como “Soluções Inovadoras” e “Projetos de Sistemas de TI”, sempre buscando desenvolver soluções tecnológicas criativas, inclusivas e transformadoras. Tenho grande interesse nas áreas de banco de dados, programas de inclusão social através da tecnologia e no aprendizado de novas culturas, ampliando minha visão de mundo e sensibilidade social. Possuo trajetória acadêmica reconhecida, com medalhas em Olimpíadas Brasileiras de Conhecimento nas áreas de Ciências, Astronomia, Geografia e História. Destaco-me pela liderança, proatividade e pensamento inovador, com noções de programação (HTML, CSS, JavaScript, Python, PostgreSQL), modelagem de sistemas e elaboração de relatórios técnicos e acadêmicos. Meu foco é aplicar a tecnologia como ferramenta de transformação e inclusão.
+
 
 🏅 Medalhista de ouro em 3 Olimpíadas Brasileiras de Conhecimento + 7 outras medalhas em Astronomia, Ciências, Geografia e História.
 
